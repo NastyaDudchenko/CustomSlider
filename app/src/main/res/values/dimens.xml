@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Width -->
+    <dimen name="width_1">1dp</dimen>
+
+    <!-- Height -->
+    <dimen name="height_1">1dp</dimen>
+
+    <!-- Margin -->
+    <dimen name="margin_52">52dp</dimen>
+
+    <!-- Radius -->
+    <dimen name="radius_5">5dp</dimen>
+    <dimen name="radius_20">20dp</dimen>
+
+    <!-- Slider -->
+    <dimen name="mtrl_slider_label_padding" tools:override="true">0dp</dimen>
+
+    <!-- Tooltip -->
+    <dimen name="mtrl_tooltip_padding" tools:override="true">5dp</dimen>
+    <dimen name="mtrl_tooltip_arrowSize" tools:override="true">16dp</dimen>
+
+</resources>
